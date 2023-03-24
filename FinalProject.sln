@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestSharpProj", "FinalProject\RestSharpProj.csproj", "{34F2C770-82D5-42B5-9179-DC3522D294BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HTTPClient", "HTTPClient\HTTPClient.csproj", "{6E488652-A78F-4BFB-ADCC-A404AA0B9B8A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOAP", "SOAP\SOAP.csproj", "{570AC573-845F-4586-98DE-FAA3CE18D53C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34F2C770-82D5-42B5-9179-DC3522D294BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34F2C770-82D5-42B5-9179-DC3522D294BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34F2C770-82D5-42B5-9179-DC3522D294BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34F2C770-82D5-42B5-9179-DC3522D294BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E488652-A78F-4BFB-ADCC-A404AA0B9B8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E488652-A78F-4BFB-ADCC-A404AA0B9B8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E488652-A78F-4BFB-ADCC-A404AA0B9B8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E488652-A78F-4BFB-ADCC-A404AA0B9B8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{570AC573-845F-4586-98DE-FAA3CE18D53C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{570AC573-845F-4586-98DE-FAA3CE18D53C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{570AC573-845F-4586-98DE-FAA3CE18D53C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{570AC573-845F-4586-98DE-FAA3CE18D53C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2903B680-73B7-4B8C-BDA9-7DE756EAA70D}
+	EndGlobalSection
+EndGlobal
